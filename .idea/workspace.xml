@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.6">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,21 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_controller_test.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="static_pages_controller_test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="static_pages_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.26865673">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -82,16 +62,16 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.875">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="help.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="help.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34005037">
+            <state vertical-scroll-proportion="-5.625">
               <caret line="9" column="106" selection-start-line="9" selection-start-column="106" selection-end-line="9" selection-end-column="106" />
               <folding />
             </state>
@@ -111,8 +91,18 @@
       <file leaf-file-name="home.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -138,14 +128,15 @@
         <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$USER_HOME$/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/guard-2.12.5/lib/guard/guardfile.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
+        <option value="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" />
+        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
       </list>
     </option>
   </component>
@@ -289,6 +280,10 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -331,7 +326,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistoryKey" value="help&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/help.html.erb&#10;application_&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/application_controller.rb&#10;hom&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb&#10;appli&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/layouts/application.html.erb&#10;layout_&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/layout_file&#10;home&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb&#10;gua&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/Guardfile&#10;about.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/about.html.erb&#10;application.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/layouts/application.html.erb&#10;static_pa&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/static_pages_controller.rb&#10;static&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/static_pages_controller.rb&#10;gitig&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/.gitignore&#10;guardfile&#9;null&#9;null&#10;test_help&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/test_helper.rb&#10;testh&#9;null&#9;null&#10;help.ht&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/help.html.erb&#10;home.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb" />
+    <property name="SearchEverywhereHistoryKey" value="static_pages&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/controllers/static_pages_controller_test.rb&#10;applicatio&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/helpers/application_helper.rb&#10;application.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/layouts/application.html.erb&#10;sta&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/controllers/static_pages_controller_test.rb&#10;home&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb&#10;static_pages_controller&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/controllers/static_pages_controller_test.rb&#10;application&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/helpers/application_helper.rb&#10;static&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/static_pages_controller.rb&#10;application.&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/layouts/application.html.erb&#10;applicat&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/helpers/application_helper.rb&#10;stat&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/controllers/static_pages_controller_test.rb&#10;home.&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb&#10;application_help&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/helpers/application_helper.rb&#10;help&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/help.html.erb&#10;application_&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/application_controller.rb&#10;hom&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb&#10;appli&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/layouts/application.html.erb&#10;layout_&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/layout_file&#10;gua&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/Guardfile&#10;about.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/about.html.erb&#10;static_pa&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/controllers/static_pages_controller.rb&#10;gitig&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/.gitignore&#10;guardfile&#9;null&#9;null&#10;test_help&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/test/test_helper.rb&#10;testh&#9;null&#9;null&#10;help.ht&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/help.html.erb&#10;home.html&#9;FILE&#9;file:///Users/Martin/big_hippo/hartl/sample_app/app/views/static_pages/home.html.erb" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -531,7 +526,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32884902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4573991" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -600,42 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Guardfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7125891">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -648,14 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -664,10 +619,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34005037">
+        <state vertical-scroll-proportion="-5.625">
           <caret line="9" column="106" selection-start-line="9" selection-start-column="106" selection-end-line="9" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.391924">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26865673">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>
